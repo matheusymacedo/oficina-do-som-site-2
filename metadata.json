@@ -1,0 +1,6 @@
+{
+  "name": "Oficina Do Som",
+  "description": "Oficina automotiva em Cruzeiro - SP com mais de 10 anos de experiência em mecânica geral e serviços relacionados a rádio automotivo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
